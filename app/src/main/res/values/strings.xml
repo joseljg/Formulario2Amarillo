@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Formulario2Amarillo</string>
+    <string name="fruta_elegida">fruta elegida</string>
+    <string name="insertar_fruta">Insertar Fruta</string>
+    <string-array name="frutas">
+        <item>fruta1</item>
+        <item>fruta2</item>
+        <item>fruta3</item>
+        <item>fruta4</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
